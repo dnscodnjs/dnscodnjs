@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![chaewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yun9869&show_icons=true&theme=radical)
+![chaewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnscodnjs&show_icons=true&theme=radical)
